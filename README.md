@@ -8,7 +8,7 @@ I am a Passionate Java developer, expanding skills to Swift and Python. Also an 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [tblynxx@gmail.com](mailto:tblynxx@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python and SwiftUI
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
