@@ -29,7 +29,7 @@ I am a Passionate Java developer, expanding skills to Swift and Python. Also an 
 
 <div align="center">
 <a href="https://github.com/Chima-Anason">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chima-Anason&theme=2077" height="180em" />
+<img align="center" src="http://github-readme-stats.vercel.app/api/cards/stats?username=Chima-Anason&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chima-Anason&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chima-Anason&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chima-Anason&theme=2077" height="180em" />
