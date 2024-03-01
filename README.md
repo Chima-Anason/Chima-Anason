@@ -23,3 +23,17 @@ I am a Passionate Java developer, expanding skills to Swift and Python. Also an 
 <a href="http://www.github.com/Chima-Anason"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chima-Anason&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Chima-Anason"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chima-Anason&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+<b>My GitHub Stats2</b>
+
+<div align="center">
+<a href="https://github.com/Chima-Anason">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chima-Anason&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chima-Anason&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chima-Anason&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chima-Anason&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chima-Anason&theme=2077" height="180em" />
+</div>
+
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chima-Anason&" alt="Chima-Anason" /></p>
