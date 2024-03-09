@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tochukwu Chima</h1>
-<h3 align="center">A passionate Software Engineer from Nigeria living in China. Also an Experienced Data Engineer -> ELK Stack</h3>
+<h3 align="center">A passionate Software Engineer from Nigeria living in China. Also an Experienced Data Engineer (ELK Stack)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chima-Anason&label=Profile%20views&color=0e75b6&style=flat" alt="Chima-Anason" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chima-Anason" alt="Chima-Anason" /></a> </p>
 
-* 🧠  I'm enhancing my skills in Python and React
+* 🧠  I'm enhancing my skills in Python,Kotlin and React
 * ✉️  You can contact me at [tblynxx@gmail.com](mailto:tblynxx@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
