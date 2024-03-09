@@ -1,14 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tochukwu Chima
-======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Tochukwu Chima</h1>
+<h3 align="center">A passionate Software Engineer from Nigeria living in China. Also an Experienced Data Engineer -> ELK Stack</h3>
 
-Software Engineer
------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chima-Anason&label=Profile%20views&color=0e75b6&style=flat" alt="Chima-Anason" /> </p>
 
-I am a Passionate Java developer, expanding skills to Swift and Python. Also an Experienced Data Engineer -> ELK Stack
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chima-Anason" alt="Chima-Anason" /></a> </p>
 
-* 🌍  I'm based in Nigeria
+* 🧠  I'm enhancing my skills in Python and React
 * ✉️  You can contact me at [tblynxx@gmail.com](mailto:tblynxx@gmail.com)
-* 🧠  I'm learning Python and SwiftUI
 * 🤝  I'm open to collaborating on Projects
 
 <h3 align="left">Languages and Tools:</h3>
